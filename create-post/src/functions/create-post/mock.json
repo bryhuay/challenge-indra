@@ -1,0 +1,6 @@
+{
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": "{\"author\": \"Silvia Ccami Ambiente\",\"review\": \"Las adiciones no son simples \", \"title\": \"Ampliacion de otros personajes\", \"observation\": \"1\"}"
+}
